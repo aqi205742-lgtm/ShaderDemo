@@ -1,0 +1,147 @@
+{
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.vs": true,
+        "**/.gitmodules": true,
+        "**/.vsconfig": true,
+        "**/*.booproj": true,
+        "**/*.pidb": true,
+        "**/*.suo": true,
+        "**/*.user": true,
+        "**/*.userprefs": true,
+        "**/*.unityproj": true,
+        "**/*.dll": true,
+        "**/*.exe": true,
+        "**/*.pdf": true,
+        "**/*.mid": true,
+        "**/*.midi": true,
+        "**/*.wav": true,
+        "**/*.gif": true,
+        "**/*.ico": true,
+        "**/*.jpg": true,
+        "**/*.jpeg": true,
+        "**/*.png": true,
+        "**/*.psd": true,
+        "**/*.tga": true,
+        "**/*.tif": true,
+        "**/*.tiff": true,
+        "**/*.3ds": true,
+        "**/*.3DS": true,
+        "**/*.fbx": true,
+        "**/*.FBX": true,
+        "**/*.lxo": true,
+        "**/*.LXO": true,
+        "**/*.ma": true,
+        "**/*.MA": true,
+        "**/*.obj": true,
+        "**/*.OBJ": true,
+        "**/*.asset": true,
+        "**/*.cubemap": true,
+        "**/*.flare": true,
+        "**/*.mat": true,
+        "**/*.meta": true,
+        "**/*.prefab": true,
+        "**/*.unity": true,
+        "build/": true,
+        "Build/": true,
+        "Library/": true,
+        "library/": true,
+        "obj/": true,
+        "Obj/": true,
+        "Logs/": true,
+        "logs/": true,
+        "ProjectSettings/": true,
+        "UserSettings/": true,
+        "temp/": true,
+        "Temp/": true
+    },
+    "files.associations": {
+        "*.asset": "yaml",
+        "*.meta": "yaml",
+        "*.prefab": "yaml",
+        "*.unity": "yaml",
+    },
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+        "*.sln": "*.csproj",
+        "*.slnx": "*.csproj"
+    },
+    "dotnet.defaultSolution": "Shader.slnx",
+    "dotnet.enableWorkspaceBasedDevelopment": false,
+    "dotnet.preferCSharpExtension": true,
+    "background.editor": {
+
+
+
+
+
+        
+    
+
+        "useFront": true,
+        "style": {
+            "background-position": "50% 50%",
+            "background-size": "cover",
+            "opacity": 0.4
+        },
+        "styles": [
+            {},
+            {},
+            {}
+
+        ],
+        "images": ["file:///E:/%E6%A1%8C%E9%9D%A2%E5%A3%81%E7%BA%B8/27.jpg"],
+        "interval": 0,
+        "random": false
+    },
+    "background.sidebar": {
+        "useFront": true,
+        "style": {
+            "background-position": "50% 50%",
+            "background-size": "cover",
+            "opacity": 0.4
+        },
+        "styles": [
+            {},
+            {},
+            {}
+        ],
+        "images": ["file:///D:/Software/360Zip/28.jpg"],
+        "interval": 0,
+        "random": false
+    },
+    "background.panel": {
+        "useFront": true,
+        "style": {
+            "background-position": "50% 50%",
+            "background-size": "cover",
+            "opacity": 0.4
+        },
+        "styles": [
+            {},
+            {},
+            {}
+        ],
+        "images": ["file:///E:/%E6%A1%8C%E9%9D%A2%E5%A3%81%E7%BA%B8/29.jpg"],
+        "interval": 0,
+        "random": false
+    },
+    "background.auxiliarybar": {
+        "useFront": true,
+        "style": {
+            "background-position": "50% 50%",
+            "background-size": "cover",
+            "opacity": 0.4
+        },
+        "styles": [
+            {},
+            {},
+            {}
+        ],
+        "images": ["file:///D:/Software/360Zip/30.jpg"],
+        "interval": 0,
+        "random": false
+    },
+
+}
