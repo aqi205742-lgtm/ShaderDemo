@@ -1,6 +1,6 @@
 ## 📄 项目技术文档 (Technical Documentation)
 
-[![点击查看作品集 PDF](https://github.com/你的用户名/仓库名/raw/main/cover.png)](https://github.com/你的用户名/仓库名/raw/main/Portfolio.pdf)
+[![点击查看作品集 PDF](https://github.com/aqi205742-lgtm/ShaderDemo/raw/main/cover.png)](https://github.com/aqi205742-lgtm/ShaderDemo/raw/main/Portfolio.pdf)
 
 > 💡 **提示：** 点击上方封面图查看完整离线版 PDF；或访问 [Notion 在线版](你的Notion链接) 获得最佳动态演示体验。
 ### 💬 关于我 (About Me)
